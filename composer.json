@@ -1,5 +1,5 @@
 {
-    "name": "qrcpu/qrcpu-php",
+    "name": "qrcpu/qrcpu-php-test",
     "description": "qrcpu php SDK",
     "homepage": "http://www.qrcpu.com/",
     "type": "library",
