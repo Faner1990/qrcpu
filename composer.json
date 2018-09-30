@@ -1,0 +1,14 @@
+{
+    "name": "qrcpu/qrcpu-php",
+    "description": "qrcpu php SDK",
+    "homepage": "http://www.qrcpu.com/",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qrcpu.com",
+            "homepage": "http://www.qrcpu.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
